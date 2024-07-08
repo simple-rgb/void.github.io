@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://void.github.io</id>
+    <title>VOID</title>
+    <updated>2024-07-08T14:39:43.543Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://void.github.io"/>
+    <link rel="self" href="https://void.github.io/atom.xml"/>
+    <subtitle>繁星纵变</subtitle>
+    <logo>https://void.github.io/images/avatar.png</logo>
+    <icon>https://void.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, VOID</rights>
+</feed>
